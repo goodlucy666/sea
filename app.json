@@ -1,13 +1,13 @@
 {
-  "name": "随便",
-  "description": "随便",
+  "name": "zdfv",
+  "description": "afef",
   "keywords": [
-    "随便"
+    "avsa"
   ],
   "env": {
     "PROTOCOL": {
-      "description": "协议VMess或VLESS，请填小写的vmess或vless",
-      "value": "vmess",
+      "description": "小写的vmess或vless",
+      "value": "vless",
       "required": true
     },
     "UUID": {
@@ -17,12 +17,12 @@
     },
     "WS_PATH": {
       "description": "websocket路径",
-      "value": "/ray",
+      "value": "/app",
       "required": true
     }
   },
-  "website": "https://github.com/用户名/仓库名",
-  "repository": "https://github.com/用户名/仓库名",
+  "website": "https://github.com/goodlucy666/sea",
+  "repository": "https://github.com/goodlucy666/sea",
   "stack": "container",
   "features": [
     "runtime-dyno-metadata"
